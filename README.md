@@ -10,15 +10,6 @@ This repository documents my 90-day journey of learning Python, starting from th
 - Build small Python projects.
 - Eventually learn Machine Learning.
 
-## Daily Progress
-
-| Day | Topic | Status |
-|---|---|---|
-| Day 1 | Variables | Completed |
-| Day 2 | Comparison Operators | Completed |
-| Day 3 | Logical Operators | Completed |
-| Day 4 | Loops | Upcoming |
-
 ## What I'm Learning
 - Variables and Data Types
 - Conditional Statements
